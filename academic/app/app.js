@@ -37,6 +37,12 @@ myNewApp.controller('newController',['$scope',function($scope){
          show:true,
          thumb: "content/eee.png",
          open: "courses/bee/index.html"
+        },
+        {name:"JAVA PROGRAMMING",
+        cost:"CHY 1007",
+         show:true,
+         thumb: "content/java.png",
+         open: "courses/java/index.html"
         }
         
     ];
