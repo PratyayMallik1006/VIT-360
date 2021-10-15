@@ -4,4 +4,4 @@
 
 While working the student organisation VIT 360, I volenteered to make the complete website by myself for the organization.
 
-link: vit360.me
+link: https://vit360.me/
